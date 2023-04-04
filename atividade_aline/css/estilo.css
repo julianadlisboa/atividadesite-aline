@@ -1,0 +1,21 @@
+body{
+	background-color:#000000;
+	}
+h1{
+	font-family:verdana;
+	font-size:80px;
+	text-align:center;
+	color:#ffffff;
+	border:5px solid yellow;
+}
+#imagem{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+p{
+	font-family:verdana;
+	font-size:20px;
+	text-align:center;
+	color:#ffffff;
+}
